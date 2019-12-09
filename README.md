@@ -2,7 +2,7 @@
 Radio programming images created for use by the Amateur Radio Club at UNC Charlotte.
 
 ## Naming Scheme
-{Call Sign}_{Brand}_{Model}_{Year}-{Month}-{Day}_{Hour}-{Minute}_{Any Other Tags}.{Extension}
+{Call Sign}\_{Brand}\_{Model}\_{Year}-{Month}-{Day}\_{Hour}-{Minute}_{Any Other Tags}.{Extension}"
 
 # About
 These Code Plugs were created by the Amateur Radio Club at UNC Charlotte for use by our members and the surrounding community.
